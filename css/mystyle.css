@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Onest&family=Zilla+Slab:ital,wght@1,600&display=swap');
+
+
+body {
+    background-color: #FFF8B5;
+    font-family: 'Onest', sans-serif;
+    font-size: 16px;
+    
+  }
+
+  p {
+    color: #B84B23;
+    line-height: 1.3em;
+  }
+
+  a:link {
+    color: #B84B23;
+  }
+
+  .container{
+    max-width: 960px;
+    margin: 0 auto 0 auto;
+    
+    
+  }
+  
+   
+  h1, 
+  h2, 
+  h3 {
+    color: #B84B23;
+    margin-left: 10px;
+    font-family: 'Zilla Slab', serif;
+  }
+
+
+  .sr-only {
+    border: 0;
+    clip: rect(0,0,0,0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  }
